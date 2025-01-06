@@ -1,3 +1,4 @@
+// A synchronous TCP daytime client
 #include <array>
 #include <iostream>
 #include <boost/asio.hpp>
